@@ -5,7 +5,6 @@ npm-debug.log
 .next
 .git
 .gitignore
-README.md
-*.md
+README.md 
 .vscode
 .idea
